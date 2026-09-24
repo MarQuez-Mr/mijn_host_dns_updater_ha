@@ -1,5 +1,5 @@
 name: Mijn.host DDNS Updater
-version: "1.0.0"
+version: "1.0.1"
 slug: mijn_host_ddns_updater
 description: Update Mijn.host DNS records with the current public IP address.
 url: https://github.com/MarQuez-Mr/mijn_host_dns_updater_ha
