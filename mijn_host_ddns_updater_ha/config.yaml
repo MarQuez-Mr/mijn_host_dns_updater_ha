@@ -2,7 +2,7 @@ name: Mijn.host DDNS Updater
 version: "1.0.0"
 slug: mijn_host_ddns_updater
 description: Update Mijn.host DNS records with the current public IP address.
-url: https://github.com/MarQuez-Mr/mijn_host_dns_updater
+url: https://github.com/MarQuez-Mr/mijn_host_dns_updater_ha
 arch:
   - amd64
   - aarch64
