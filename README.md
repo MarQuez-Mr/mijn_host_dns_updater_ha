@@ -34,3 +34,5 @@ docker build -t local/mijn-host-ddns-updater mijn_host_ddns_updater
 
 The App uses the Home Assistant base image and requires `init: false` so
 s6-overlay can run as PID 1.
+
+Based on code of https://github.com/wimb0/python-mijn-host-dns-updater.git
