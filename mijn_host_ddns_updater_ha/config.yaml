@@ -9,6 +9,7 @@ arch:
   - armv7
 startup: application
 boot: auto
+init: false
 options:
   api_key: null
   domain_name: null
