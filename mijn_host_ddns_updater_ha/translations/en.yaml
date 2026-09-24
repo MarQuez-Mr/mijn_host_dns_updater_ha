@@ -1,0 +1,19 @@
+configuration:
+  api_key:
+    name: Mijn.host API key
+    description: API key used to update DNS records.
+  domain_name:
+    name: Domain name
+    description: Base domain managed by Mijn.host.
+  record_names:
+    name: Record names
+    description: DNS names to update, such as @ or *.
+  default_ttl:
+    name: Default TTL
+    description: TTL used when creating missing records.
+  create_records_if_missing:
+    name: Create missing records
+    description: Create missing A and AAAA records automatically.
+  interval:
+    name: Update interval
+    description: Seconds between updates. Use 0 for one run.
